@@ -105,3 +105,36 @@ In recent years, perhaps coinciding with the decline in prescriptive hormone rep
 * Using the Breast Cancer Database, we will create a classifier that can help diagnose patients and predict the likelihood of a breast cancer.
 * Used various Machine Learning Algorithms to analyse and predict.
 * Used 30 different columns to understand the data.
+# How to run?
+### STEPS:
+
+Clone the repository
+
+```bash
+https://github.com/MehulRampratapNayak/books_recommender_system.git
+```
+### STEP 01- Create a conda environment after opening the repository
+
+```bash
+conda create -n venv python=3.8 -y
+```
+
+```bash
+conda activate venv/
+```
+
+
+### STEP 02- install the requirements
+```bash
+pip install -r requirements.txt
+```
+Now run,
+```bash
+python app.py
+```
+
+
+```bash
+Author: Mehul Rampratap Nayak
+Linkedin:https://www.linkedin.com/in/mehulrnayak/
+Email: mehulnayak14@gmail.com
